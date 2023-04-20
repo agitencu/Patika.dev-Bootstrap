@@ -1,0 +1,51 @@
+body {
+    background-color: #E9ECEF;
+}
+
+main{
+    text-align: center;
+}
+
+/* about us */
+.card-about{
+    background-color: #E9ECEF;
+}
+.card-about h1{
+    text-align: center;
+    color: red;
+}
+.card-about h2{
+    color: black;
+}
+/* header menu */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  header h1{
+    color: red;
+    float: left;
+  }
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  nav li {
+    float: left;
+  }
+  nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  nav li a:hover {
+    background-color: #111;
+    border-radius: 50px;
+    text-decoration: none;
+  }
